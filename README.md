@@ -1,2 +1,2 @@
 # python-practice
-My Python practice program and learning projects
+to improve My Python Programming skills through regular practice
